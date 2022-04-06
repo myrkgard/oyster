@@ -9,6 +9,7 @@
 //! Example:
 //!
 //! ```
+//! use num_bigint::BigUint;
 //! use serde::{Deserialize, Serialize};
 //!
 //! #[derive(Serialize, Deserialize)]
